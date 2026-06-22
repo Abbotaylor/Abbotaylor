@@ -1,97 +1,86 @@
-<div align="center">
-  
-  <h1>Taylor Abbott</h1>
-  <h3>Full-Stack Engineer | JavaScript | Python | Ruby </h3>
-</div>
+## Hey :wave:, I'm [Taylor!](https://github.com/Abbotaylor)
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abbotaylor&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abbotaylor&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbotaylor&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-## 💪 Expertise Level
-```
-Expert     ████████████ JavaScript, Python, React, Node.js, FastAPI
-Advanced   ██████████   TypeScript, Django, PostgreSQL, AWS, Microservices
-Proficient ████████     Ruby on Rails, GraphQL, Docker, Redis, Kubernetes       
-```
-
-## 🛠️ Tech Stack
-
-Here are the tools and technologies I work with:
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind-%234ED1C5.svg?style=for-the-badge&logo=tailwindCss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23777BB4.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-3C3C3D?style=for-the-badge&logo=Heroku&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### API Integrations
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-00B88C?style=for-the-badge&logo=sendgrid&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=restful&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Full Stack Engineer · 7+ Years · JavaScript · Python · Ruby · MERN**
 
 ---
 
-## 🔧 Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,ts,js,html,css,sass,webpack,redux,graphql,jest,git,github,aws,docker" />
-</p>
+### Glad to see you here!
 
-## 📌 What I'm Up To
+I'm **Taylor Abbott**, a **Full Stack Engineer** with **7+ years of experience** building enterprise web apps, APIs, and scalable backend systems.
+
+I work across **JavaScript/TypeScript**, **Python**, and **Ruby** — including **MERN**, **Django**, **FastAPI**, **Flask**, and **Ruby on Rails** — with a focus on clean architecture, API design, and reliable delivery.
+
+I'm passionate about **microservices**, **system scalability**, and shipping products that are both **performant and maintainable** :sparkles:.
+
+<img align="right" height="250" width="375" alt="coder gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I work with **React**, **Next.js**, **Node.js**, **Express**, **Python**, **Django**, **FastAPI**, **Ruby on Rails**, **GraphQL**, and **REST APIs**
+- :rocket: &nbsp; Building enterprise-grade apps, microservices, and cloud-native backends
+- :books: &nbsp; Most of my projects are on [GitHub](https://github.com/Abbotaylor)
+- :space_invader: &nbsp; Fun fact: I brew my own coffee blends while debugging! ☕
+- :mailbox: &nbsp; How to reach me: **abbott.taylor01@gmail.com**
+
+### My Absolute Favorites:
+
+- :computer: &nbsp; API design, system scalability, and developer experience
+- :pizza: &nbsp; Exploring AI/ML integration in web applications
+
+---
+
+### 🧠 Core Stack
+
+**JavaScript** · **Python** · **Ruby** · **React** · **Node.js** · **Express** · **Django** · **FastAPI** · **Ruby on Rails** · **GraphQL** · **PostgreSQL** · **MongoDB** · **Redis** · **AWS** · **Docker** · **Kubernetes**
+
+---
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+---
+
+### 📌 What I'm Up To
+
 - 🔭 **Currently building**: Enterprise-grade applications with microservices
-- 🌱 **Learning**: Advanced Kubernetes orchestration & serverless architectures  
+- 🌱 **Learning**: Advanced Kubernetes orchestration & serverless architectures
 - 🎯 **Focus areas**: API design, system scalability, and developer experience
 - 💡 **Exploring**: AI/ML integration in web applications
-- ⚡ **Fun fact**: I brew my own coffee blends while debugging! ☕
 
-## 🌐 Let's Connect
-<div align="center">
-  <a href="mailto:abbott.taylor01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
 
-<div align="center" style="margin-top:20px">
-  <img src="https://komarev.com/ghpvc/?username=Abbotaylor&style=flat-square&color=blue" alt="Profile views" />
-</div>
+<h1 align="center">
+
+  Let's Connect and have a Chat! 💬
+
+</h1>
+
+<p align="center">
+
+<a href="mailto:abbott.taylor01@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+
+</p>
 
 <p align="center">
   <i>"Write code that humans can understand, not just computers"</i> 🚀
